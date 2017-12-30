@@ -1,0 +1,12 @@
+E:\Learning Demo\NarolaCore2\NarolaCore2\bin\Debug\netcoreapp2.0\NarolaCore2.deps.json
+E:\Learning Demo\NarolaCore2\NarolaCore2\bin\Debug\netcoreapp2.0\NarolaCore2.runtimeconfig.json
+E:\Learning Demo\NarolaCore2\NarolaCore2\bin\Debug\netcoreapp2.0\NarolaCore2.runtimeconfig.dev.json
+E:\Learning Demo\NarolaCore2\NarolaCore2\bin\Debug\netcoreapp2.0\NarolaCore2.dll
+E:\Learning Demo\NarolaCore2\NarolaCore2\obj\Debug\netcoreapp2.0\NarolaCore2.csprojResolveAssemblyReference.cache
+E:\Learning Demo\NarolaCore2\NarolaCore2\obj\Debug\netcoreapp2.0\NarolaCore2.csproj.CoreCompileInputs.cache
+E:\Learning Demo\NarolaCore2\NarolaCore2\obj\Debug\netcoreapp2.0\NarolaCore2.AssemblyInfoInputs.cache
+E:\Learning Demo\NarolaCore2\NarolaCore2\obj\Debug\netcoreapp2.0\NarolaCore2.AssemblyInfo.cs
+E:\Learning Demo\NarolaCore2\NarolaCore2\bin\Debug\netcoreapp2.0\NarolaCore2.pdb
+E:\Learning Demo\NarolaCore2\NarolaCore2\obj\Debug\netcoreapp2.0\NarolaCore2.dll
+E:\Learning Demo\NarolaCore2\NarolaCore2\obj\Debug\netcoreapp2.0\NarolaCore2.pdb
+E:\Learning Demo\NarolaCore2\NarolaCore2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
